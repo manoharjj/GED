@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTguiIME.cpp">
+      <Filter>DXUT\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\ImeUi.cpp">
+      <Filter>DXUT\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKsound.cpp">
+      <Filter>DXUT\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKwavefile.cpp">
+      <Filter>DXUT\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTDevice9.cpp">
+      <Filter>DXUT\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTDevice11.cpp">
+      <Filter>DXUT\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTguiIME.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTLockFreePipe.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\ImeUi.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKsound.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKwavefile.h">
+      <Filter>DXUT\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTDevice9.h">
+      <Filter>DXUT\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTDevice11.h">
+      <Filter>DXUT\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\external\SimpleImage\ComPtr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{62efbd43-2c6d-4a85-a132-4ff76cf956d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXUT\Core">
+      <UniqueIdentifier>{4cd3051f-51d1-4cbd-a86e-f6b94518eaa6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXUT\Optional">
+      <UniqueIdentifier>{3b052faf-3892-4e65-9d1f-18189bc766f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2661491a-98dd-45ed-bf75-37f30bdfea5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9dca1d6b-3c53-4e95-bb9f-8b65d1d89dd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effect Files">
+      <UniqueIdentifier>{0a3aaa19-194b-44b4-b699-caa248f6febe}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\DXUTOpt_2010.sln">
+      <Filter>DXUT\Optional</Filter>
+    </None>
+    <None Include="DXUT\Optional\DXUTOpt_2010.vcxproj">
+      <Filter>DXUT\Optional</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="DXUT\Core\dpiaware.manifest">
+      <Filter>DXUT\Core</Filter>
+    </Manifest>
+  </ItemGroup>
+  <ItemGroup>
+    <FX_HLSL Include="demoEffect.fx">
+      <Filter>Effect Files</Filter>
+    </FX_HLSL>
+  </ItemGroup>
+</Project>
